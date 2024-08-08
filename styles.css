@@ -17,7 +17,9 @@ h1 {
     background-image: url("../img/Menu.svg");
     background-repeat: no-repeat;
     background-position: center;
-}.cabeçalho {
+
+}
+.cabeçalho {
     background-color: var(--branco);
     display: flex;
     justify-content: space-between;
